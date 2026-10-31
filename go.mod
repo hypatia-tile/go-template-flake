@@ -1,3 +1,3 @@
-module github.com/hypatia-tile/go-template-flake
+module practice
 
 go 1.26.10
